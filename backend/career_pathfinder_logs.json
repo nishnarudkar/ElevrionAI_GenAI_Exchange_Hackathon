@@ -1,0 +1,1696 @@
+[
+  {
+    "timestamp": "2025-08-05T00:48:32.519876",
+    "input": {
+      "text": "Geetesh\n \nDalal\n \n+91\n \n9821960747\n \n|\n \ngeeteshdalal.work@gmail.com\n \n|\n \nPortfolio\n \n|\n \nGitHub\n \n|\n \nLinkedIn\n \n \n \nEDUCATION\n \n \n \nBennett\n \nUniversity\n \n(The\n \nTimes\n \nGroup)\n \nGreater\n \nNoida,\n \nIndia\n \nB.Tech\n \n-\n \nComputer\n \nScience\n \nEngineering\n \n2023\n \n-\n \n2027\n \nCGP A:\n \n9.04\n \n \nPROJECTS\n \n \n \nGenPalette\n \n-\n \nAI\n \nColor\n \nPalette\n \nGenerator\n \n&\n \nVisualizer\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI-powered\n \nweb\n \napp\n \nusing\n \nGemini\n \nAPI\n \nto\n \ngenerate\n \ncohesive\n \ncolor\n \npalettes,\n \nwith\n \nlive\n \npreviews,\n \nan\n \nexplore\n \nsection\n \nof\n \nAI-generated\n \npalettes,\n \nand\n \na\n \ndashboard\n \nto\n \nsave\n \nfavourites.\n \n\u25cf\n \nOptimized\n \nperformance\n \nand\n \ncode\n \nquality\n \nby\n \ndynamically\n \nimporting\n \nroute-specific\n \ncomponents\n \nto\n \nreduce\n \nJS\n \nbundle\n \nsize\n \nby\n \n90KB\n \nand\n \nbuilding\n \ncustom\n \nReact\n \nhooks\n \nfor\n \ncleaner ,\n \nreusable,\n \nand\n \nmaintainable\n \nlogic.\n \n\u25cf\n \nImplemented\n \nAuth.js-based\n \nauthentication,\n \nRedux\n \nfor\n \nstate\n \nmanagement,\n \nand\n \nFramer\n \nMotion\n \nfor\n \nseamless\n \nUI\n \nanimations.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB,\n \nRedux,\n \nAuth.js,\n \nFramer\n \nMotion\n \n \nReadmeEasy\n \n-\n \nAI\n \nPowered\n \nReadme\n \nGeneration\n \nTool\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nBuilt\n \nan\n \nAI\n \ntool\n \nthat\n \ngenerates\n \nclean,\n \nstructured,\n \nand\n \nprofessional\n \nReadme.md\n \nfiles\n \nunder\n \n15\n \nseconds\n \nusing\n \nGemini\n \nAPI\n,\n \nbased\n \non\n \ninferred\n \nproject\n \ndata.\n \n\u25cf\n \nSuccessfully\n \ngenerated\n \n50+\n \nReadme.md\n \nfiles\n \nhelping\n \nusers\n \ncreate\n \npolished\n \nand\n \nstandardized\n \ndocumentation\n \neffortlessly\n \nwithin\n \nseconds.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTypeScript,\n \nTailwind\n \nCSS,\n \nGemini\n \nAPI,\n \nMongoDB\n \n \nCampusHive\n \n-\n \nCampus\n \nSocial\n \nNetworking\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nMERN\n \nstack\n \nweb\n \napplication\n \nfeaturing\n \nreal-time\n \nchat,\n \ncarpooling,\n \nlost\n \n&\n \nfound,\n \nand\n \nproject\n \ncollaboration\n \ndesigned\n \nto\n \nsave\n \nuniversity\n \nstudents\n \nup\n \nto\n \nestimated\n \n70%\n \nin\n \ntravel\n \ncosts\n \nand\n \nimprove\n \nitem\n \nrecovery\n \nrates\n \nby\n \nestimated\n \n80%\n.\n \n\u25cf\n \nIntegrated\n \nJWT-based\n \nauth,\n \nGoogle\n \nOAuth,\n \nfile\n \nuploads,\n \nand\n \nresponsive\n \ndesign\n \nto\n \nensure\n \nsecure\n \naccess\n \nand\n \nsmooth\n \nmobile\n \nexperience.\n \n\u25cf\n \nTechnologies:\n \nReact.js,\n \nNode.js,\n \nExpress.js,\n \nMongoDB,\n \nSocket.IO\n \n \nCodev\n \n-\n \nDeveloper\n \nPortfolio\n \n&\n \nDiscovery\n \nPlatform\n \nGitHub\n \n|\n \nLive\n \n \n\u25cf\n \nDeveloped\n \na\n \nfull-stack\n \nweb\n \nplatform\n \nenabling\n \ndevelopers\n \nto\n \ncreate\n \npersonalized\n \nportfolios\n \nwith\n \ncoding\n \nprofiles\n \n(LeetCode,\n \nGitHub,\n \nCodeforces),\n \nprojects,\n \nand\n \nskills\n \nestimated\n \nto\n \nboost\n \ndiscoverability\n \nby\n \nrecruiters\n \nand\n \npeers\n \nby\n \n60%.\n \n\u25cf\n \nIntegrated\n \nfeatures\n \nlike\n \nprofile\n \nphoto\n \nusing\n \nCloudinary ,\n \nglobal\n \nstate\n \nmanagement\n \nusing\n \nRedux,\n \nsmooth\n \nanimations\n \nusing\n \nFramer\n \nMotion,\n \nand\n \nresponsive\n \ndesign\n \nusing\n \nTailwind\n \nCSS.\n \n\u25cf\n \nTechnologies:\n \nNext.js,\n \nReact.js,\n \nTailwind\n \nCSS,\n \nMongoDB,\n \nRedux,\n \nFramer\n \nMotion\n \n \nSKILLS\n \n \n \nLanguages:\n \nJava,\n \nJavaScript,\n \nTypeScript\n \nFrontend:\n \nHTML,\n \nCSS,\n \nTailwind\n \nCSS,\n \nReact.js,\n \nNext.js,\n \nRedux,\n \nFramer\n \nMotion\n \nBackend:\n \nNode.js,\n \nExpress.js,\n \nREST\n \nAPIs\n \nDatabases:\n \nMongoDB,\n \nMySQL\n \nTools:\n \nGit,\n \nGitHub,\n \nPostman,\n \nVercel\n \n \nRELEVANT\n \nCOURSEWORK\n \n \n \nData\n \nStructures\n \n&\n \nAlgorithms,\n \nOperating\n \nSystems,\n \nComputer\n \nNetworks,\n \nDatabase\n \nManagement\n \nSystems\n \n(DBMS),\n \nObject-Oriented\n \nProgramming\n \n(OOP),\n \nFull\n \nStack\n \nDevelopment\n ",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "react",
+        "nextjs",
+        "redux",
+        "framer-motion",
+        "nodejs",
+        "expressjs",
+        "rest-apis",
+        "mongodb",
+        "mysql",
+        "git",
+        "github",
+        "postman",
+        "vercel",
+        "socketio",
+        "jwt",
+        "google-oauth",
+        "cloudinary",
+        "gemini-api"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 4.74
+        },
+        "total_time": 4.74,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 4.74019980430603,
+    "session_id": "session_20250805_004832"
+  },
+  {
+    "timestamp": "2025-08-05T00:48:36.873822",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, gemini-api",
+      "target_role": "Target Role Assessment: ai-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ai-engineer",
+      "role_assessment": {
+        "role_name": "ai-engineer",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "neural-networks",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "computer-vision",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "nlp",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "transformers",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "llm",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "hugging-face",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in Deep Learning: Dedicate 8-12 hours to comprehensive training through online courses or bootcamps (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0003228187561035156,
+    "session_id": "session_20250805_004836"
+  },
+  {
+    "timestamp": "2025-08-05T00:48:42.482790",
+    "input": {
+      "text": "Skills: java, javascript, typescript, html, css, tailwind-css, react, nextjs, redux, framer-motion, nodejs, expressjs, rest-apis, mongodb, mysql, git, github, postman, vercel, socketio, jwt, google-oauth, cloudinary, gemini-api",
+      "target_role": "Target Role Assessment: ml-engineer"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ml-engineer",
+      "role_assessment": {
+        "role_name": "ml-engineer",
+        "readiness_score": 0.08,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "mlops",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "scikit-learn",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.00016951560974121094,
+    "session_id": "session_20250805_004842"
+  },
+  {
+    "timestamp": "2025-08-22T15:31:15.244625",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 1.926
+        },
+        "total_time": 1.926,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 1.9260342121124268,
+    "session_id": "session_20250822_153115"
+  },
+  {
+    "timestamp": "2025-08-22T15:40:30.330763",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 1.845
+        },
+        "total_time": 1.845,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 1.8447558879852295,
+    "session_id": "session_20250822_154030"
+  },
+  {
+    "timestamp": "2025-08-22T15:42:34.031799",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 3.185
+        },
+        "total_time": 3.185,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 3.184765577316284,
+    "session_id": "session_20250822_154234"
+  },
+  {
+    "timestamp": "2025-08-22T15:45:29.478490",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 1.848
+        },
+        "total_time": 1.848,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 1.8480803966522217,
+    "session_id": "session_20250822_154529"
+  },
+  {
+    "timestamp": "2025-08-22T15:45:34.445705",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Single Role Readiness"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ml-engineer",
+      "role_assessment": {
+        "role_name": "ml-engineer",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "git",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "mlops",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "scikit-learn",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0018739700317382812,
+    "session_id": "session_20250822_154534"
+  },
+  {
+    "timestamp": "2025-08-22T15:49:26.511253",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 3.198
+        },
+        "total_time": 3.198,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 3.1980416774749756,
+    "session_id": "session_20250822_154926"
+  },
+  {
+    "timestamp": "2025-08-22T15:49:31.394805",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Single Role Readiness"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ml-engineer",
+      "role_assessment": {
+        "role_name": "ml-engineer",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "git",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "mlops",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "scikit-learn",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0025069713592529297,
+    "session_id": "session_20250822_154931"
+  },
+  {
+    "timestamp": "2025-08-22T15:53:33.232159",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 3.179
+        },
+        "total_time": 3.179,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 3.178600311279297,
+    "session_id": "session_20250822_155333"
+  },
+  {
+    "timestamp": "2025-08-22T15:53:38.823001",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Single Role Readiness"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ml-engineer",
+      "role_assessment": {
+        "role_name": "ml-engineer",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "git",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "mlops",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "scikit-learn",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0019850730895996094,
+    "session_id": "session_20250822_155338"
+  },
+  {
+    "timestamp": "2025-08-22T15:54:25.836049",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 1.04
+        },
+        "total_time": 1.04,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 3.0803871154785156,
+    "session_id": "session_20250822_155425"
+  },
+  {
+    "timestamp": "2025-08-22T15:54:27.989422",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 3.193
+        },
+        "total_time": 3.193,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 3.1931092739105225,
+    "session_id": "session_20250822_155427"
+  },
+  {
+    "timestamp": "2025-08-22T15:54:29.911483",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Single Role Readiness"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ml-engineer",
+      "role_assessment": {
+        "role_name": "ml-engineer",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "git",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "mlops",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "scikit-learn",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.005676746368408203,
+    "session_id": "session_20250822_155429"
+  },
+  {
+    "timestamp": "2025-08-22T15:58:18.542466",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Skill Extraction"
+    },
+    "output": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "extracted_skills": [
+        "ai",
+        "ml",
+        "full-stack development",
+        "predictive modelling",
+        "generative ai",
+        "chatbot design",
+        "python",
+        "javascript",
+        "dart",
+        "sql",
+        "c",
+        "flask",
+        "fastapi",
+        "flutter",
+        "tailwind css",
+        "scikit-learn",
+        "keras",
+        "generative ai apis",
+        "langchain",
+        "git",
+        "figma",
+        "rest apis",
+        "ros",
+        "data preprocessing",
+        "model training",
+        "integration of ml models into client-facing applications",
+        "linear regression",
+        "cross-validation"
+      ],
+      "performance_summary": {
+        "step_timings": {
+          "skill_extraction_only": 3.214
+        },
+        "total_time": 3.214,
+        "cache_stats": {
+          "hits": 0,
+          "misses": 0,
+          "hit_ratio": 0
+        }
+      }
+    },
+    "execution_time_seconds": 3.2137949466705322,
+    "session_id": "session_20250822_155818"
+  },
+  {
+    "timestamp": "2025-08-22T15:58:25.633892",
+    "input": {
+      "text": "Nishant Vikas Narudkar\nnishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India\nSummary\nB.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-\nment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and\ndelivering impactful projects.\nEducation\nRamrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)\nCGPA: 9.5 (till 2ndyear) 2023 \u2013 Present\nTechnical Skills\nLanguages: Python, JavaScript, Dart, SQL, C\nFrameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS\nML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain\nOther: Git, Figma, REST APIs, ROS\nProjects\nAI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev\nAI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.\nFeatures skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-\nics.\nGitHub: Repository Live: Website\nSolar Radiation Prediction Python, ML, Flask\nFull-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015\u20132020).\nAchieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.\nGitHub: Repository Live: Website\nExperience\nAI Intern \u2013 Wayspire Jun 2024 \u2013 Aug 2024\nWorked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into\nclient-facing applications.\nLeadership & Volunteering\nMarketing Head \u2013 IEEE RAIT 2024 \u2013 2025\nLed social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-\ntography, editing, and audience engagement strategies.\nTeacher \u2013 The Barabari Project 2024\nTaught underprivileged children basics of computer science and logical thinking.\nFundraising Volunteer \u2013 Social Wing RAIT 2024\nHelped organise donation drives and fundraising events for social causes.\nAchievements & Competitions\n\u2022Participant \u2013 Smart India Hackathon 2024\n\u2022Participant \u2013 E-Yantra Competition, IIT Bombay\n\u2022Open Source Contributor \u2013 Social Summer of Code",
+      "target_role": "Single Role Readiness"
+    },
+    "output": {
+      "extracted_skills": [],
+      "missing_skills": [],
+      "nice_to_have": [],
+      "roadmap_phases": 0,
+      "total_recommended_skills": 0
+    },
+    "full_result": {
+      "target_role": "ml-engineer",
+      "role_assessment": {
+        "role_name": "ml-engineer",
+        "readiness_score": 0.0,
+        "readiness_label": "Needs foundation",
+        "missing_skills": [
+          {
+            "skill": "python",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "machine-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "tensorflow",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "pytorch",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "deep-learning",
+            "current_level": 0,
+            "target_level": 3,
+            "gap_degree": 3,
+            "importance": "must"
+          },
+          {
+            "skill": "docker",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "kubernetes",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "sql",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "git",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "linux",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "must"
+          },
+          {
+            "skill": "aws",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "mlops",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          },
+          {
+            "skill": "scikit-learn",
+            "current_level": 0,
+            "target_level": 2,
+            "gap_degree": 2,
+            "importance": "nice"
+          }
+        ],
+        "quick_win_recommendations": [
+          "Foundation needed in python: Start with course PY001 - 'Python for Everybody Specialization' (40h) (Level 0\u21923)",
+          "Foundation needed in machine learning: Start with course ML001 - 'Machine Learning Course' (60h) (Level 0\u21923)"
+        ]
+      }
+    },
+    "execution_time_seconds": 0.0011789798736572266,
+    "session_id": "session_20250822_155825"
+  }
+]

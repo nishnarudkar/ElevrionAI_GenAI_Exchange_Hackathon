@@ -1,0 +1,40 @@
+Nishant Vikas Narudkar
+nishnarudkar@gmail.com |Linkedin |Github |Navi Mumbai, India
+Summary
+B.Tech Artificial Intelligence and Machine Learning student with strong skills in AI, ML, and full-stack develop-
+ment. Experienced in predictive modelling, generative AI, and chatbot design. Adept at leading technical teams and
+delivering impactful projects.
+Education
+Ramrao Adik Institute of Technology, Navi Mumbai (B.Tech in Artificial Intelligence and Machine Learning)
+CGPA: 9.5 (till 2ndyear) 2023 – Present
+Technical Skills
+Languages: Python, JavaScript, Dart, SQL, C
+Frameworks/Tools: Flask, FastAPI, Flutter, Tailwind CSS
+ML/DL: Scikit-learn, Keras, Generative AI APIs, Langchain
+Other: Git, Figma, REST APIs, ROS
+Projects
+AI-Powered Career Pathfinder Navigator OpenAI GPT-4o, LangGraph, Web Dev
+AI-driven career guidance platform analyzing skills and generating 3-phase learning paths with curated resources.
+Features skill extraction from resumes, readiness assessment for 8+ tech careers, and responsive web UI with analyt-
+ics.
+GitHub: Repository Live: Website
+Solar Radiation Prediction Python, ML, Flask
+Full-stack ML web app predicting Global Horizontal Irradiance (GHI) from Saudi Arabian weather data (2015–2020).
+Achieved R2= 0.97 using Linear Regression with cross-validation. Deployed via Flask on Render.
+GitHub: Repository Live: Website
+Experience
+AI Intern – Wayspire Jun 2024 – Aug 2024
+Worked on AI-powered solutions, including data preprocessing, model training, and integration of ML models into
+client-facing applications.
+Leadership & Volunteering
+Marketing Head – IEEE RAIT 2024 – 2025
+Led social media strategy across YouTube, Instagram, Facebook, Medium, and LinkedIn. Mentored juniors in pho-
+tography, editing, and audience engagement strategies.
+Teacher – The Barabari Project 2024
+Taught underprivileged children basics of computer science and logical thinking.
+Fundraising Volunteer – Social Wing RAIT 2024
+Helped organise donation drives and fundraising events for social causes.
+Achievements & Competitions
+•Participant – Smart India Hackathon 2024
+•Participant – E-Yantra Competition, IIT Bombay
+•Open Source Contributor – Social Summer of Code

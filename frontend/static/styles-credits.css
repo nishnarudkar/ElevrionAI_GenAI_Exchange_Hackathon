@@ -1,0 +1,103 @@
+.team-credits {
+    margin-top: 30px;
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    animation: fadeScale 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.4s backwards;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+.credit-title {
+    font-size: 1.2em;
+    color: #000000;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+    font-weight: 800;
+    display: inline-block;
+    padding: 10px 25px;
+    background: #ffffff;
+    border-radius: 25px;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    margin-bottom: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.team-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    align-items: center;
+    font-size: 1.1em;
+    color: #1a1a1a;
+    font-weight: 600;
+    margin: 0 -5px;
+}
+
+.team-members a.team-member {
+    text-decoration: none;
+    color: #1a1a1a;
+}
+
+.team-member {
+    position: relative;
+    padding: 8px 18px;
+    border-radius: 25px;
+    background: linear-gradient(145deg, #f0f0f0, #ffffff);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    font-weight: 700;
+}
+
+.team-member:hover {
+    background: linear-gradient(145deg, #ffffff, #f5f5f5);
+    transform: translateY(-3px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    color: #000;
+}
+
+.team-divider {
+    color: #666666;
+    margin: 0 5px;
+    font-weight: 500;
+    font-size: 0.8em;
+}
+
+/* Animation for team members */
+.team-member {
+    animation: fadeScale 0.5s cubic-bezier(0.16, 1, 0.3, 1) backwards;
+}
+
+.team-members .team-member:nth-child(1) { animation-delay: 0.5s; }
+.team-members .team-member:nth-child(3) { animation-delay: 0.6s; }
+.team-members .team-member:nth-child(5) { animation-delay: 0.7s; }
+.team-members .team-member:nth-child(7) { animation-delay: 0.8s; }
+.team-members .team-member:nth-child(9) { animation-delay: 0.9s; }
+
+/* Responsive design for team credits */
+@media (max-width: 768px) {
+    .team-credits {
+        margin-top: 25px;
+        padding-top: 15px;
+    }
+
+    .team-members {
+        font-size: 1em;
+    }
+
+    .team-member {
+        padding: 5px 12px;
+    }
+    
+    .team-divider {
+        margin: 0 4px;
+    }
+}
